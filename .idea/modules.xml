@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProSpring4th/ProSpring4th.iml" filepath="$PROJECT_DIR$/ProSpring4th/ProSpring4th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teaching-plan/teaching-plan.iml" filepath="$PROJECT_DIR$/teaching-plan/teaching-plan.iml" />
     </modules>
   </component>
 </project>
